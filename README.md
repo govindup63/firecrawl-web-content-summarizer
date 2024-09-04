@@ -28,9 +28,6 @@ https://github.com/user-attachments/assets/e2a3565f-8403-4790-a7f7-11904dfb6f89
    ```bash
    git clone https://github.com/govindup63/firecrawl-web-content-summarizer.git
    cd firecrawl-web-content-summarizer
-   ```
-
-   ```
 
 2. **Install the dependencies**:
 
