@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/73dc3c8f-2bcf-42d2-b61f-091249f5bfbc
 # Firecrawl Web Content Summarizer
 
 This project is a web content summarization tool that utilizes the Firecrawl SDK for scraping web content and OpenAI's GPT model to generate summaries. It allows you to input a URL, scrape its content, and then generate a concise summary using AI.
